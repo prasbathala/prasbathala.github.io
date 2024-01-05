@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Shubham Lohiya # the website title (if blank, full name will be used instead)
-first_name: Shubham
+title: Prasanth Bathala # the website title (if blank, full name will be used instead)
+first_name: Prasanth
 middle_name:
-last_name: Lohiya
+last_name: Bathala
 email: shubhlohiya@gatech.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hello There! I am Shubham Lohiya and I am a graduate student at Georgia Tech.
