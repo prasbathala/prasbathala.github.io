@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Shubham Lohiya
+title: Prasanth Bathala
 permalink: /
 description:
 
