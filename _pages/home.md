@@ -6,7 +6,7 @@ description:
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: prof_pic.png
   address:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
