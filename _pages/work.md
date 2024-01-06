@@ -33,13 +33,16 @@ navpos: 3
     </div>
     <p class="work-text">
       <strong>Graduate Research Assistant</strong> | <i>Pathology Dynamics Lab</i> <br/>
-       - Involved in curation of new text dataset of 10K records for comprehensive data analysis and model development.
-       - Optimized multi-label text classifiers using RoBERTA and active learning achieving 60% F-1 score with limited
-        labeled data.
-       - Developed PubMed BERT-based relationship extraction model for the new dataset, benchmarking the results.
-       - Worked on Information Retrieval for meta-analysis using LLMs based on Open AI API like ChatGPT and GPT-3.
-       - Developing a Multi-label Hierarchical Contrastive learning approach for Biomedical Entity Linking.
-
+      <br>
+       &nbsp;&nbsp;&nbsp;&bull; Involved in curation of new text dataset of 10K records for comprehensive data analysis and model development.
+      <br>
+       &nbsp;&nbsp;&nbsp;&bull; Optimized multi-label text classifiers using RoBERTA and active learning achieving 60% F-1 score with limited labeled data.
+      <br>
+       &nbsp;&nbsp;&nbsp;&bull; Developed PubMed BERT-based relationship extraction model for the new dataset, benchmarking the results.
+      <br>
+       &nbsp;&nbsp;&nbsp;&bull; Worked on Information Retrieval for meta-analysis using LLMs based on Open AI API like ChatGPT and GPT-3.
+      <br>
+       &nbsp;&nbsp;&nbsp;&bull; Developing a Multi-label Hierarchical Contrastive learning approach for Biomedical Entity Linking.
     </p>
     <br>
   </div>
@@ -51,8 +54,10 @@ navpos: 3
     </div>
     <p class="work-text">
       <strong>Artificial Intelligence Engineer</strong> | <i>RadicalX AI</i> <br/>
-        - Led a 5-member team in developing a potent anti-cheat and anti-fraud system, blending SVM and BERT models.
-        - Built a robust Zero-Shot intent classifier based on BLINK architecture for career coach chatbot based on GPT-4.
+        <br>
+        &nbsp;&nbsp;&nbsp;&bull; Led a 5-member team in developing a potent anti-cheat and anti-fraud system, blending SVM and BERT models.
+        <br>
+        &nbsp;&nbsp;&nbsp;&bull; Built a robust Zero-Shot intent classifier based on BLINK architecture for career coach chatbot based on GPT-4.
     </p>
     <br>
   </div>
@@ -65,9 +70,12 @@ navpos: 3
     </div>
     <p class="work-text">
       <strong>NLP Research Assistant</strong> | <i>Janus Lab</i> <br/>
-       - Conducted Exploratory Data Analysis (EDA) on 1K+ text files using regex, pandas and stemming.
-       - Implemented transfer learning on transformer models like BERT, Spacy to detect racial bias in each document.
-       - Enhanced a text summarization model utilizing BART to visualize insights from interview transcripts.
+      <br>
+       &nbsp;&nbsp;&nbsp;&bull; Conducted Exploratory Data Analysis (EDA) on 1K+ text files using regex, pandas and stemming.
+      <br>
+       &nbsp;&nbsp;&nbsp;&bull; Implemented transfer learning on transformer models like BERT, Spacy to detect racial bias in each document.
+      <br>
+       &nbsp;&nbsp;&nbsp;&bull; Enhanced a text summarization model utilizing BART to visualize insights from interview transcripts.
     </p>
     <br>
   </div>
@@ -80,8 +88,10 @@ navpos: 3
     </div>
     <p class="work-text">
       <strong>Course Assistant</strong> | <i>Unacademy</i> <br/>
-       - Reduced CRUD extraction time by designing an automation framework and implemented a development tool using Python and SQL; earned appreciation award for saving over 4 days of manual effort.
-       - Contructed Python scripts for data migration and cleaning, particularly for Teradata and IBM DB2 transfers.
+      <br>
+       &nbsp;&nbsp;&nbsp;&bull; Reduced CRUD extraction time by designing an automation framework and implemented a development tool using Python and SQL; earned appreciation award for saving over 4 days of manual effort.
+      <br>
+       &nbsp;&nbsp;&nbsp;&bull; Contructed Python scripts for data migration and cleaning, particularly for Teradata and IBM DB2 transfers.
     </p>
     <br>
   </div>
