@@ -14,7 +14,7 @@ navpos: 3
   <div class="work-item vertical-center-text">
     <div class="work-bubble-with-date">
       <img src="/assets/img/work/amazon.png" class="work-bubble" />
-      <h6>Aug '23 - Present</h6>
+      <h6>Sept '23 - Present</h6>
     </div>
     <p class="work-text">
       <strong>Applied Scientist</strong> | <i>Amazon</i> <br/>
@@ -29,7 +29,7 @@ navpos: 3
   <div class="work-item vertical-center-text">
     <div class="work-bubble-with-date">
       <img src="/assets/img/work/georgiatech.png" class="work-bubble" />
-      <h6>May '21 - Jul '21</h6>
+      <h6>Jan '23 - Present</h6>
     </div>
     <p class="work-text">
       <strong>Graduate Research Assistant</strong> | <i>Pathology Dynamics Lab</i> <br/>
@@ -66,7 +66,7 @@ navpos: 3
   <div class="work-item vertical-center-text">
     <div class="work-bubble-with-date">
       <img src="/assets/img/work/georgiatech.png" class="work-bubble" />
-      <h6>May '21 - Jul '21</h6>
+      <h6>Jan '23 - May '23</h6>
     </div>
     <p class="work-text">
       <strong>NLP Research Assistant</strong> | <i>Janus Lab</i> <br/>
@@ -84,7 +84,7 @@ navpos: 3
   <div class="work-item vertical-center-text">
     <div class="work-bubble-with-date">
       <img src="/assets/img/work/Infosys.png" class="work-bubble" />
-      <h6>Dec '20</h6>
+      <h6>Nov '20 - Aug '22</h6>
     </div>
     <p class="work-text">
       <strong>Course Assistant</strong> | <i>Unacademy</i> <br/>
