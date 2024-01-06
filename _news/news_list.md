@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <th>Jan 2023</th>
-    <td>I started research at <a href="https://sites.gatech.edu/cassie-mitchell-lab/">Pathology Dynamics Lab</a>. </td>
+    <td>I started research at <a href="https://sites.gatech.edu/cassie-mitchell-lab/">Pathology Dynamics Lab</a> under the guidance of <a href="https://sites.gatech.edu/cassie-mitchell-lab/people/pi-profile/">Prof. Cassie Mitchell</a>. </td>
   </tr>
   <tr>
     <th>April 2022</th>
