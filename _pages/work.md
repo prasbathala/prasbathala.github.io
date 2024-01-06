@@ -17,7 +17,7 @@ navpos: 3
       <h6>Aug '23 - Present</h6>
     </div>
     <p class="work-text">
-      <strong>Applied Scientist</strong> | <i>Amazon</i> <br/>
+      <strong>Applied Scientist</strong> | <i>Amazon</i> 
       <ul>
        <li> Developed a robust pipeline to run multi-node batch training and inference on Sagemaker. Evaluated and tested for fine-tuning (SFT, LoRA) Alexa LLM (7B, 13B, 30B), Llama v2, Flan - T5 for Query Rewriting (CQR) task.
        <li> Research on efficiently tailoring Large Language Models for Text Generation using RL-based policy methods.
