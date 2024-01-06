@@ -95,7 +95,7 @@ Check out my <a href="{{ 'projects' | relative_url }}">research and other key pr
     <p class="work-text">
       <strong>Manager, Electronics and Robotics Club, IIT Bombay, 2020-21</strong> <br/>
     </p>
-  </div> -->
+  </div> 
 
 
-</div>
+</div> -->

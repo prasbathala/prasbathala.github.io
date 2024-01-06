@@ -23,6 +23,10 @@
     <td>Our resource paper, BioSIFT, has been accepted at SIGIR 2023!</td>
   </tr>
   <tr>
+    <th>Jan 2023</th>
+    <td>I started research at <a href="https://sites.gatech.edu/cassie-mitchell-lab/">Pathology Dynamics Lab</a>. </td>
+  </tr>
+  <tr>
     <th>April 2022</th>
     <td>I'll be joining the <a href="https://ece.gatech.edu/graduate/masters-degrees">MS ECE program</a> at the <a href="https://www.gatech.edu/">Georgia Institute of Technology</a> in Fall 2022!</td>
   </tr>
