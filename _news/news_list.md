@@ -22,12 +22,6 @@
     <th>April 2023</th>
     <td>Our resource paper, BioSIFT, has been accepted at SIGIR 2023!</td>
   </tr>
-
-
-  <tr>
-    <th>May 2022</th>
-    <td>Awarded the <a href="https://pg.nsfoundation.co.in/">NSF PG Scholarship</a> for pursuing graduate studies</td>
-  </tr>
   <tr>
     <th>April 2022</th>
     <td>I'll be joining the <a href="https://ece.gatech.edu/graduate/masters-degrees">MS ECE program</a> at the <a href="https://www.gatech.edu/">Georgia Institute of Technology</a> in Fall 2022!</td>
