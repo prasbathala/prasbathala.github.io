@@ -4,13 +4,18 @@
 <table>
 
   <tr>
-    <th>August 2023</th>
+    <th>September 2023</th>
     <td>I'll be interning as an Applied Scientist at Amazon this fall!</td>
+  </tr>
+
+  <tr>
+    <th>September 2023</th>
+    <td>Our paper, Comprehensive Evaluation of Entity Linking models, has been accepted at EMNLP 2023.</td>
   </tr>
   
   <tr>
     <th>May 2023</th>
-    <td>I'll be interning as a Machine Learning Engineer at Adobe this summer!</td>
+    <td>I'll be interning as an Aritificial Intelligence Engineer at RadicalX this summer!</td>
   </tr>
 
   <tr>
@@ -18,60 +23,49 @@
     <td>Our resource paper, BioSIFT, has been accepted at SIGIR 2023!</td>
   </tr>
 
-  <tr>
-    <th>Oct 2022</th>
-    <td>My first paper (AlignKGC) has been accepted at EMNLP 2022!</td>
-  </tr>
-  <tr>
-    <th>Aug 2022</th>
-    <td>Awarded the Institute Silver Medal at Convocation Ceremony for securing Department Rank 1</td>
-  </tr>
+
   <tr>
     <th>May 2022</th>
     <td>Awarded the <a href="https://pg.nsfoundation.co.in/">NSF PG Scholarship</a> for pursuing graduate studies</td>
   </tr>
   <tr>
     <th>April 2022</th>
-    <td>I'll be joining the <a href="https://www.cc.gatech.edu/degree-programs/master-science-computer-science">MS CS program</a> at the <a href="https://www.gatech.edu/">Georgia Institute of Technology</a> in Fall 2022!</td>
+    <td>I'll be joining the <a href="https://ece.gatech.edu/graduate/masters-degrees">MS ECE program</a> at the <a href="https://www.gatech.edu/">Georgia Institute of Technology</a> in Fall 2022!</td>
   </tr>
   <tr>
-    <th>March 2022</th>
-    <td>Received the <a href="http://engg.nsfoundation.co.in/Home/About">NSF UG Engineering Scholarship</a> for demonstrating scholastic excellence</td>
+    <th>Nov 2021</th>
+    <td>Promoted to Software Engineer at Infosys Limited.</td>
   </tr>
   <tr>
-    <th>November 2021</th>
-    <td>Awarded the prestigious <a href="https://www.opjems.com/">OPJEMS Scholarship</a> for displaying academic and leadership excellence</td>
+    <th>Nov 2020</th>
+    <td>Started working as a Software Engineer Trainee at Infosys Limited.</td>
   </tr>
   <tr>
-    <th>August 2021</th>
+    <th>Aug 2020</th>
+    <td>Awarded the Institute Silver Medal at Convocation Ceremony for securing Department Rank 2</td>
+  </tr>
+  <tr>
+    <th>May 2019</th>
     <td>Awarded Institute Academic Prize for academic excellence in 3rd year of undergraduate studies</td>
   </tr>
-  <tr>
-    <th>July 2021</th>
-    <td>Attended the virtual <span style="font-weight: 400;">Humanizing Digital 2021</span> - AI conference at Chulalongkorn University, Thailand</td>
+    <tr>
+    <th>May 2019</th>
+    <td>Organized our flagship event V.A.W.O. for educating the first year students on technology and venturing projects.</td>
   </tr>
   <tr>
-    <th>May 2021</th>
-    <td>I'll be working as a Data Science Intern at <a href="https://www.ab-inbev.com/">Anheuser-Busch InBev</a> this summer!</td>
+    <th>August 2018</th>
+    <td>Appointed as a Secretary of the Electrical Forum of the Amrita, Bangalore (Vidyuth).</td>
   </tr>
   <tr>
-    <th>August 2020</th>
-    <td>Won the <a href="https://www.prospect100.com/competitions/global-innovation-competition">Prospect 100 Global Tech Challenge</a>, a Covid-19 Hackathon judged by Steve Wozniak</td>
-  </tr>
-  <tr>
-    <th>August 2020</th>
+    <th>May 2018</th>
     <td>Awarded Institute Academic Prize for academic excellence in 2nd year of undergraduate studies</td>
   </tr>
   <tr>
-    <th>May 2020</th>
-    <td>Will be interning as a Python Developer at <a href="https://www.linkedin.com/company/avrio-energy/">Avrio Energy</a>!</td>
+    <th>April 2017</th>
+    <td>Appointed as Executive member of <a href="https://r10.ieee.org/bangalore-pes/amrita-se-pes-day/">IEEE Power and Energy Society, Amrita School of Engineering, Bangalore Chapter</a>.</td>
   </tr>
   <tr>
-    <th>April 2020</th>
-    <td>Elected into the technical council as manager of the <a href="https://itc.gymkhana.iitb.ac.in/~erc">Electronics and Robotics Club, IIT Bombay</a></td>
-  </tr>
-  <tr>
-    <th>July 2018</th>
-    <td>Started my undergraduate term at IIT Bombay</td>
+    <th>July 2016</th>
+    <td>Started my undergraduate term at Amrita University</td>
   </tr>
 </table>
