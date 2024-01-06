@@ -4,12 +4,12 @@
 <table>
 
   <tr>
-    <th>September 2023</th>
+    <th>Sept 2023</th>
     <td>I'll be interning as an Applied Scientist at Amazon this fall!</td>
   </tr>
 
   <tr>
-    <th>September 2023</th>
+    <th>Sept 2023</th>
     <td>Our paper, Comprehensive Evaluation of Entity Linking models, has been accepted at EMNLP 2023.</td>
   </tr>
   
@@ -44,10 +44,10 @@
   </tr>
     <tr>
     <th>May 2019</th>
-    <td>Organized our flagship event V.A.W.O. for educating the first year students on technology and venturing projects.</td>
+    <td>Organized our flagship event V.A.W.O., a 2 day competition for first year students on electronics.</td>
   </tr>
   <tr>
-    <th>August 2018</th>
+    <th>Aug. 2018</th>
     <td>Appointed as a Secretary of the Electrical Forum of the Amrita, Bangalore (Vidyuth).</td>
   </tr>
   <tr>
