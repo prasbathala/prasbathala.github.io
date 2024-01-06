@@ -35,7 +35,7 @@ I intend to use this website to give the world a peek into my mind and to share 
 <br>
 
 <h4>Research Interests</h4>
- I am broadly interested in language technologies for bridging the interaction gap between humans and computers. More specifically, my research interests include [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Natural Language Understanding](https://en.wikipedia.org/wiki/Natural-language_understanding), [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model), [Vision Language Models](https://huggingface.co/blog/vision_language_pretraining), and [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning). 
+ I am broadly interested in the intersection of Multimodal and multi-task learning, contrastive learning and self-supervised learning. More specifically, my research interests include [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Natural Language Understanding](https://en.wikipedia.org/wiki/Natural-language_understanding), [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model), [Vision Language Models](https://huggingface.co/blog/vision_language_pretraining), and [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning). 
 <br><br>
 
 <h4>Experience</h4>
