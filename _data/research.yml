@@ -18,7 +18,7 @@
     src: /assets/img/research/cogit.png
     alt: 
   date: Sept '23 - Jan '24
-  description: Large Language Models (LLMs) excel in language tasks with examples, but their control through prompts has inherent limitations. <br> In this work, we introduce \textbf{Controlled Text Generation at Inference Time (COGIT)}, which combines a large base Language Model’s output distribution with that of a smaller-sized model (an adapter policy).
+  description: Large Language Models (LLMs) excel in language tasks with examples, but their control through prompts has inherent limitations. <br> In this work, we introduce <b>Controlled Text Generation at Inference Time (COGIT)</b>, which combines a large base Language Model’s output distribution with that of a smaller-sized model (an adapter policy).
   links:
     code: 
     demo: 
