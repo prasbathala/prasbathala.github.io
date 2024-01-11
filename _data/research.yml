@@ -1,17 +1,3 @@
-- title: "MARBLER: Multi-Agent RL Benchmark and Learning Environment for the Robotarium"
-  guide: 
-  image:
-    src: /assets/img/research/marbler.png
-    alt: 
-  date: Jan '23 - Jul '23
-  description: An Open Platform for Standarized Evaluation of Multi-Robot Reinforcement Learning Algorithms.
-  links:
-    code: https://github.com/ShashwatNigam99/MARBLER
-    demo: https://youtu.be/kkYeUcl-vbY
-    blog: https://shubhlohiya.github.io/MARBLER/
-    report: 
-    paper: https://arxiv.org/abs/2307.03891
-
 - title: Hierarchical Entity Linking
   guide: <a href="https://sites.gatech.edu/cassie-mitchell-lab/people/pi-profile/">Prof. Cassie Mitchell</a>, <a href="https://sites.gatech.edu/cassie-mitchell-lab/">Pathology Dynamics Lab</a>, <a href="https://www.gatech.edu/">Georgia Tech </a>
   image:
@@ -23,6 +9,20 @@
     code: 
     demo: 
     blog: 
+    report: 
+    paper: 
+
+- title: "Controlled Text Generation at Inference Time (COGIT): Efficiently Tailoring Large Language Models with Policy Adaptors"
+  guide: 
+  image:
+    src: /assets/img/research/cogit.png
+    alt: 
+  date: Jan '23 - Jul '23
+  description: Efficiently tailor Large Language Models (LLMs) to task-specific objective.
+  links:
+    code: 
+    demo: 
+    blog:
     report: 
     paper: 
 
