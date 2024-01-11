@@ -35,17 +35,17 @@
     report: assets/pdf/project/DepressionReport.pdf
 
 
-- title: Profile Recommendation System for Online Dating
+- title: Personalized Hotel Finder with Customer Reviews
   image:
-    src: https://previews.123rf.com/images/djvstock/djvstock1809/djvstock180909706/109875476-online-dating-design-with-smartphone-with-couples-on-screen-over-white-background-vector-illustratio.jpg
+    src: assets/img/project/hotelfinder.jpg
     alt: 
-  date: Fall '21
-  description: A machine learning algorithm to rank profile-pairs by generating compatibility vectors for them. Uses proxy-labeling to generate supervision signals for model training.
+  date: Fall '22
+  description: Created a personalized hotel recommendation system considering user preferences for price, food, and ambiance. Extracted Noun-Adjective pairs from 515k hotel reviews using pretrained models like BERT and Spacy.
   links:
-    code: https://github.com/shubhlohiya/dating-profile-recommendation
-    demo: 
+    code: https://github.com/hsurya08/Personalized-Hotel-Recommender-using-Sentiment-Analysis
+    demo: https://hotel-recomender.vercel.app/
     blog: 
-    report: https://nbviewer.org/github/shubhlohiya/dating-profile-recommendation/blob/master/report.pdf
+    report: https://github.com/hsurya08/Personalized-Hotel-Recommender-using-Sentiment-Analysis
 
 - title: Web corpus indexing and compression
   image:
