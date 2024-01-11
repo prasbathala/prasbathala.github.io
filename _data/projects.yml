@@ -10,6 +10,17 @@
     blog: 
     report: /assets/pdf/project/Alzheimer_Report.pdf
   
+- title: Efficient Deep Learning Aspects for Classification of 3D Point Cloud Data
+  image:
+    src: /assets/img/project/pointcloud.png
+    alt: 
+  date: Spring '23
+  description: investigate real-time 3D point cloud classification emphasizing the advantages of models like DGCNN over basic models like PointNet and offering insights for future research in model development.
+  links:
+    code: https://github.com/prasbathala/3D-Point-Cloud-Classification-Analysis
+    demo: 
+    blog: 
+    report: assets/pdf/project/pointcloud_report.pdf
 
 - title: Depression detection through Audio, Visual & Textual Data
   image:
@@ -23,17 +34,6 @@
     blog: 
     report: assets/pdf/project/DepressionReport.pdf
 
-- title: Groot - The Urban Vertical Farming Unit
-  image:
-    src: /assets/img/project/groot.png
-    alt: 
-  date: Fall '21
-  description: Designed a smart Modular Vertical Farming unit for climate-independent agriculture in compact spaces. Also designed a Farm-as-a-Service platform in the form of an android application. Conducted detailed mechanical and business analyses.
-  links:
-    code: 
-    demo: https://drive.google.com/file/d/1J_fJA6Jh13AyEceG-9TP1KfXVSOk6Q4o/view?usp=sharing
-    blog: 
-    report: /assets/pdf/project/vertical-farming.pdf
 
 - title: Profile Recommendation System for Online Dating
   image:
