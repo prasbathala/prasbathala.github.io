@@ -47,6 +47,18 @@
     blog: 
     report: https://github.com/hsurya08/Personalized-Hotel-Recommender-using-Sentiment-Analysis
 
+- title: Chatbot Application using DialoGPT
+  image:
+    src: /assets/img/project/chatbot.jpeg
+    alt: 
+  date: Spring '22
+  description: Designed a chatbot application based on pre-trained model, DialoGPT, and fine-tuned using Proxiaml Policy Optimization (PPO).
+  links:
+    code: https://github.com/prasbathala/Chatbot-Application-using-DialoGPT
+    demo: 
+    blog: 
+    report: 
+
 - title: Music Title Recommendation System
   image:
     src: assets/img/project/musictitle.png
@@ -71,38 +83,16 @@
     blog: 
     report: 
 
-- title: Shortest Path in a Maze
+
+
+- title: Email Spam Classifier
   image:
-    src: /assets/img/project/maze.jpg
+    src: /assets/img/project/spam.png
     alt: 
-  date: Fall '20
-  description: Shortest path algorithm for maze solving that models a 2D maze as a Markov Decision Process (MDP) and generates optimal policy using value iteration.
+  date: Spring '20
+  description: Implemented a spam classifier using SVM and Naive Bayes, with SVM achieving 92% accuracy. 
   links:
-    code: https://github.com/shubhlohiya/CS747-FILA-reinforcement-learning/tree/master/cs747-pa2
+    code: https://github.com/prasbathala/Email-Spam-Classifier
     demo: 
     blog: 
     report: 
-
-- title: Mastering Atari Games using Deep Reinforcement Learning
-  image:
-    src: /assets/img/project/atari.gif
-    alt: 
-  date: Spring '21
-  description: Deep Reinforcement Learning agent capable of surpassing human performance on classic Atari games like Pong, Breakout and Boxing using high-level sensory information in the form of game screen pixels.
-  links:
-    code: https://github.com/shubhlohiya/playing-atari-with-deep-RL
-    demo: 
-    blog: 
-    report: https://nbviewer.org/github/shubhlohiya/playing-atari-with-deep-RL/blob/master/report.pdf
-
-- title: Star Shooter! (Video Game)
-  image:
-    src: /assets/img/project/shooter.gif
-    alt: 
-  date: Summer '20
-  description: A Star Wars themed shooting game developed using PyGame to render graphics, animation, and sound.
-  links:
-    code: https://github.com/shubhlohiya/star_shooter_game
-    demo: 
-    blog: 
-    report:
