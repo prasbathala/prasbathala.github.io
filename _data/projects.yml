@@ -47,14 +47,14 @@
     blog: 
     report: https://github.com/hsurya08/Personalized-Hotel-Recommender-using-Sentiment-Analysis
 
-- title: Web corpus indexing and compression
+- title: Music Title Recommendation System
   image:
-    src: /assets/img/project/indexing.jpg
+    src: assets/img/project/musictitle.png
     alt: 
   date: Fall '21
-  description: Developed an inverted index for a corpus of 50,000+ web documents by encoding D-gaps. Compared various index compression techniques like Elias Gamma Coding, Golomb Coding, and Arithmetic Coding.
+  description: Implemented a music recommendation system with Exploratory Data Analysis, Content-Based, Memory-Based, and Model-Based approaches, including AutoEncoder with Restricted Boltzmann Machines for enhanced predictions.
   links:
-    code: https://github.com/shubhlohiya/corpus-indexing-compression
+    code: https://github.com/prasbathala/Music-Title-Recommendation-System
     demo: 
     blog: 
     report: 
