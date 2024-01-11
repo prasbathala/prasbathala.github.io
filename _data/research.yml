@@ -26,6 +26,20 @@
     report: 
     paper: 
 
+- title: Biomedical Entity Linking Survey
+  guide: <a href="https://sites.gatech.edu/cassie-mitchell-lab/people/pi-profile/">Prof. Cassie Mitchell</a>, <a href="https://sites.gatech.edu/cassie-mitchell-lab/">Pathology Dynamics Lab</a>, <a href="https://www.gatech.edu/">Georgia Tech </a>
+  image:
+    src: /assets/img/research/bioEL.png
+    alt: 
+  date: May '23 - Aug '23
+  description: Conducted a comprehensive survey of Biomedical Enity Linking (BioEL) models and created a benchmark of uniformly formatted datasets.
+  links:
+    code: 
+    demo: 
+    blog: 
+    report: 
+    paper: https://aclanthology.org/2023.emnlp-main.893/
+
 - title: Document Filtering for Drug Repurposing and Clinical Meta-Analysis
   guide: <a href="https://sites.gatech.edu/cassie-mitchell-lab/people/pi-profile/">Prof. Cassie Mitchell</a>, <a href="https://sites.gatech.edu/cassie-mitchell-lab/">Pathology Dynamics Lab</a>, <a href="https://www.gatech.edu/">Georgia Tech </a>
   image:
@@ -40,19 +54,7 @@
     report: 
     paper: https://dl.acm.org/doi/abs/10.1145/3539618.3591897
 
-- title: Biomedical Entity Linking Survey
-  guide: <a href="https://sites.gatech.edu/cassie-mitchell-lab/people/pi-profile/">Prof. Cassie Mitchell</a>, <a href="https://sites.gatech.edu/cassie-mitchell-lab/">Pathology Dynamics Lab</a>, <a href="https://www.gatech.edu/">Georgia Tech </a>
-  image:
-    src: /assets/img/research/bioEL.png
-    alt: 
-  date: Aug '22 - Nov '22
-  description: Conducted a comprehensive survey of Biomedical Enity Linking (BioEL) models and created a benchmark of uniformly formatted datasets.
-  links:
-    code: 
-    demo: 
-    blog: 
-    report: 
-    paper: https://aclanthology.org/2023.emnlp-main.893/
+
 
 
  
