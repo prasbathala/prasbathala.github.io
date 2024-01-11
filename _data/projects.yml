@@ -2,8 +2,8 @@
   image:
     src: /assets/img/project/aldetect.png
     alt: 
-  date: Fall '20
-  description: Leveraged a 3D CNN model based on RESNET for Alzheimer's disease predction. For the task of the progression, Bi-LSTM is used predict the risk of a Alzheimer's disease over a period of time.
+  date: Spring '23
+  description: Leveraged a 3D CNN model based on RESNET for Alzheimer's disease predction from MRI and PET images. For the task of the progression, Bi-LSTM is used predict the risk of a Alzheimer's disease over a period of time.
   links:
     code: https://github.com/hsurya08/AD-Classification-and-Progression-prediction
     demo: 
@@ -11,17 +11,17 @@
     report: /assets/pdf/project/Alzheimer_Report.pdf
   
 
-- title: Automatic Raga Recognition in Indian Classical Music 
+- title: Depression detection through Audio, Visual & Textual Data
   image:
-    src: /assets/img/project/raga.png
+    src: /assets/img/project/depression.png
     alt: 
-  date: Fall '20
-  description: Leveraged tonic normalized pitch-tracked frequencies of music samples for raga classification using LSTMs with attention.
+  date: Fall '22
+  description: Leveraged Clinical interview information like Audio, Video and Text information, and programmed a multi-model depression detection model using SVM, CNN, LSTM.
   links:
-    code: https://github.com/shubhlohiya/automatic-raga-recognition
+    code: https://github.com/prasbathala/ML-Enabled-Depression-Detection
     demo: 
     blog: 
-    report: https://nbviewer.org/github/shubhlohiya/automatic-raga-recognition/blob/master/report.pdf
+    report: assets/pdf/project/DepressionReport.pdf
 
 - title: Groot - The Urban Vertical Farming Unit
   image:
