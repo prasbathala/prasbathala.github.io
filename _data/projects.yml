@@ -59,12 +59,12 @@
     blog: 
     report: 
 
-- title: Image Quilting for Texture Synthesis and Transfer
+- title: Topic-Classification-for-NewsGroup-Articles
   image:
-    src: /assets/img/project/texture-transfer.jpg
+    src: assets/img/project/news.jpeg
     alt: 
-  date: Fall '20
-  description: Implementation of a patch-based algorithm to synthesize texture from a given sample. This quilting algorithm is also extended to transfer a given texture to any target image.
+  date: Spring '21
+  description: Implemented a newspaper group classifier using techniques from <b>Machine Learning Techniques for Text</b> by Nikos Tsourakis. Employed PCA, LDA for dimensionality reduction, and achieved 90% accuracy with Random Forest. Notably, KNN accuracy improved from 20% to 89% with PCA.
   links:
     code: https://github.com/shubhlohiya/image-quilting-texture-synthesis
     demo: 
