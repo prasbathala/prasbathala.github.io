@@ -1,3 +1,16 @@
+- title: Multimodal Classification for Alzheimer's Disease Diagnosis and Progression Prediction using Deep Learning
+  image:
+    src: /assets/img/project/aldetect.png
+    alt: 
+  date: Fall '20
+  description: Leveraged a 3D CNN model based on RESNET for Alzheimer's disease predction. For the task of the progression, Bi-LSTM is used predict the risk of a Alzheimer's disease over a period of time.
+  links:
+    code: https://github.com/hsurya08/AD-Classification-and-Progression-prediction
+    demo: 
+    blog: 
+    report: /assets/pdf/project/Alzheimer_Report.pdf
+  
+
 - title: Automatic Raga Recognition in Indian Classical Music 
   image:
     src: /assets/img/project/raga.png
