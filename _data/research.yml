@@ -15,7 +15,7 @@
 - title: "Controlled Text Generation at Inference Time (COGIT): Efficiently Tailoring Large Language Models with Policy Adaptors"
   guide: <a href="https://www.amazon.science/author/jie-hao">Jie Hao</a>, <a href="https://www.amazon.science/author/zhongkai-sun">Zhongkai Sun</a>, <a href="https://www.amazon.science/author/sawyer-shen">Sawyer(Wei) Shen</a>, Amazon Alexa AI
   image:
-    src: /assets/img/research/cogit.png
+    src: /assets/img/research/cogit_p.png
     alt: 
   date: Sept '23 - Jan '24
   description: Large Language Models (LLMs) excel in language tasks with examples, but their control through prompts has inherent limitations. <br> In this work, we introduce <b>Controlled Text Generation at Inference Time (COGIT)</b>, which combines a large base Language Model’s output distribution with that of a smaller-sized model (an adapter policy).
