@@ -17,8 +17,8 @@
   image:
     src: /assets/img/research/cogit.png
     alt: 
-  date: Jan '23 - Jul '23
-  description: Efficiently tailor Large Language Models (LLMs) to task-specific objective.
+  date: Sept '23 - Jan '24
+  description: Large Language Models (LLMs) demonstrate impressive capability on various language tasks when given examples or directions. However, controlling LLMs through prompting alone has inherent limitations. <br> In this work, we introduce \textbf{Controlled Text Generation at Inference Time (COGIT)}, which combines a large base Language Model’s output distribution with that of a smaller-sized model (an adapter policy).
   links:
     code: 
     demo: 
