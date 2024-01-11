@@ -12,6 +12,20 @@
     report: 
     paper: https://arxiv.org/abs/2307.03891
 
+- title: Hierarchical Entity Linking
+  guide: <a href="https://sites.gatech.edu/cassie-mitchell-lab/people/pi-profile/">Prof. Cassie Mitchell</a>, <a href="https://sites.gatech.edu/cassie-mitchell-lab/">Pathology Dynamics Lab</a>, <a href="https://www.gatech.edu/">Georgia Tech </a>
+  image:
+    src: /assets/img/research/hierEL.png
+    alt: 
+  date: Aug '22 - Nov '22
+  description: Conducted a comprehensive survey of Biomedical Enity Linking (BioEL) models and created a benchmark of uniformly formatted datasets.
+  links:
+    code: 
+    demo: 
+    blog: 
+    report: 
+    paper: 
+
 - title: Document Filtering for Drug Repurposing and Clinical Meta-Analysis
   guide: <a href="https://sites.gatech.edu/cassie-mitchell-lab/people/pi-profile/">Prof. Cassie Mitchell</a>, <a href="https://sites.gatech.edu/cassie-mitchell-lab/">Pathology Dynamics Lab</a>, <a href="https://www.gatech.edu/">Georgia Tech </a>
   image:
