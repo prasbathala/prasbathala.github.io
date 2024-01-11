@@ -13,7 +13,7 @@
     paper: 
 
 - title: "Controlled Text Generation at Inference Time (COGIT): Efficiently Tailoring Large Language Models with Policy Adaptors"
-  guide: <a href="https://www.amazon.science/author/jie-hao">Jie Hao</a>, <a href="https://www.amazon.science/author/zhongkai-sun">Zhongkai Sun</a>, Amazon
+  guide: <a href="https://www.amazon.science/author/jie-hao">Jie Hao</a>, <a href="https://www.amazon.science/author/zhongkai-sun">Zhongkai Sun</a>, <a href="https://www.amazon.science/author/sawyer-shen">Sawyer(Wei) Shen</a>, Amazon Alexa AI
   image:
     src: /assets/img/research/cogit.png
     alt: 
