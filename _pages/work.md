@@ -14,7 +14,7 @@ navpos: 3
   <div class="work-item vertical-center-text">
     <div class="work-bubble-with-date">
       <img src="/assets/img/work/amazon.png" class="work-bubble" />
-      <h6>Sept '23 - Present</h6>
+      <h6>Sept '23 - Jan'24</h6>
     </div>
     <p class="work-text">
       <strong>Applied Scientist</strong> | <i>Amazon</i> <br/>
