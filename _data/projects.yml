@@ -66,10 +66,10 @@
   date: Spring '21
   description: Implemented a newspaper group classifier using techniques from <b>Machine Learning Techniques for Text</b> by Nikos Tsourakis. Employed PCA, LDA for dimensionality reduction, and achieved 90% accuracy with Random Forest. Notably, KNN accuracy improved from 20% to 89% with PCA.
   links:
-    code: https://github.com/shubhlohiya/image-quilting-texture-synthesis
+    code: https://github.com/prasbathala/Topic-Classification-for-NewsGroup-Articles
     demo: 
     blog: 
-    report: https://nbviewer.org/github/shubhlohiya/image-quilting-texture-synthesis/blob/master/report.pdf
+    report: 
 
 - title: Shortest Path in a Maze
   image:
