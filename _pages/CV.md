@@ -6,6 +6,7 @@ nav: True
 navpos: 1
 ---
 <h4>I am on the Job Market!!</h4>
+<br>
 <a href="{{ 'CV.pdf' | relative_url }}">
     <img src="{{ 'pdf.svg' | prepend: '/assets/' | relative_url }}" alt="CV" title="Dowload CV" height="30px"> &nbsp;
     <span style="color:blue; font-size:1.25em"> Curriculum Vitae </span>
