@@ -32,7 +32,7 @@
     src: /assets/img/research/bioEL.png
     alt: 
   date: May '23 - Aug '23
-  description: Conducted a comprehensive survey of Biomedical Enity Linking (BioEL) models and created a benchmark of uniformly formatted datasets.
+  description: Conducted a comprehensive survey of Biomedical Enity Linking (BioEL) models and created a benchmark of uniformly formatted datasets. <b> Published at EMNLP 20203. </b>
   links:
     code: https://github.com/davidkartchner/biomedical-entity-linking
     demo: 
@@ -46,7 +46,7 @@
     src: /assets/img/research/bioSift.png
     alt: 
   date: Jan '23 - May '23
-  description: Involved in the creation of the BioSift Dataset and developed Active Learning based multi-label classifiers for a document classification benchmark.
+  description: Involved in the creation of the BioSift Dataset and developed Active Learning based multi-label classifiers for a document classification benchmark. <b> Published at SIGIR 2023. </b>
   links:
     code: https://github.com/pathology-dynamics/biosift/
     demo: 
