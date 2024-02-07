@@ -87,7 +87,7 @@ navpos: 3
       <h6>Nov '20 - Aug '22</h6>
     </div>
     <p class="work-text">
-      <strong>Course Assistant</strong> | <i>Unacademy</i> <br/>
+      <strong>Software Engineer</strong> | <i>Infosys</i> <br/>
       <br>
        &nbsp;&nbsp;&nbsp;&bull; Reduced CRUD extraction time by designing an automation framework and implemented a development tool using Python and SQL; earned appreciation award for saving over 4 days of manual effort.
       <br>
