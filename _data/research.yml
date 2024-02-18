@@ -32,7 +32,7 @@
     src: /assets/img/research/bioEL.png
     alt: 
   date: May '23 - Aug '23
-  description: Conducted a comprehensive survey of Biomedical Enity Linking (BioEL) models and created a benchmark of uniformly formatted datasets. <b> Published at EMNLP 20203.
+  description: Conducted a comprehensive survey of Biomedical Enity Linking (BioEL) models and created a benchmark of uniformly formatted datasets.  <b> Published at EMNLP 20203.
    </b>
   links:
     code: https://github.com/davidkartchner/biomedical-entity-linking
