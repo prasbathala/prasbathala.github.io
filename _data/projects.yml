@@ -1,3 +1,15 @@
+- title: Image De-noising with Perona Malik (Anistropic) Diffusion
+  image:
+    src: /assets/img/project/image_denoising.jpeg
+    alt: 
+  date: Spring '24
+  description: Exploring anisotropic methods, particularly the Perona-Malik Diffusion approach, for effective image denoising by preserving crucial details like edges and corners.
+  links:
+    code: https://github.com/prasbathala/Perona-Malik-Diffusion-ECE6560
+    demo: 
+    blog: 
+    report: /assets/pdf/project/PDE_Project_Report.pdf
+
 - title: Multimodal Classification for Alzheimer's Disease Diagnosis and Progression Prediction using Deep Learning
   image:
     src: /assets/img/project/aldetect.png
